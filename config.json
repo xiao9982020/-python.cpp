@@ -1,0 +1,4 @@
+{
+    "volume_name": "name of volume",
+    "backup_folder": "C:/path/to/backup"
+}
